@@ -8,7 +8,6 @@ const initialState = {
     token: null,
     posts: [],
 };
-
 export const authSlice = createSlice({
     name: "auth",
     initialState,
