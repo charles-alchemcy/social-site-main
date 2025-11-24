@@ -1,6 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-
 // This data is accessble throut the entire application so 
 // there is no need to pass data between state and components
 const initialState = {
